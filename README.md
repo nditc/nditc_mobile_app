@@ -1,7 +1,7 @@
 <h2 align=center><a href="https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/nditc.apk">NDITC Mobile App</a></h2>
 <p align=center><b>NDITC at Your Fingertips: Your Connection to the Club!</b></p>
 
-<p align=center><img src="https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/gh/overview.gif" height="300px"/></p>
+<p align=center><img src="https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/gh/overview.gif"/></p>
 
 <p>We are delighted to present the official NDITC mobile app, currently available for <code>Android</code>, thoughtfully crafted to enhance your experience and keep you seamlessly connected to our dynamic world of technology and innovation.</p>
 
