@@ -15,6 +15,180 @@
     ],
     "sessions": [
         {
+            "session": "2025-2026",
+            "hasExtraDetails": true,
+            "members": [
+                {
+                    "name": "Luran Meahda Ramiz Rafin",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Luran_1.jpg",
+                    "profile_url": "https://www.facebook.com/luran.meahda.ramiz",
+                    "post": "President",
+                    "dept": "Department of Administration"
+                },
+                {
+                    "name": "Adrito Das",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Adrito_1.jpg",
+                    "profile_url": "https://www.facebook.com/adrito.das.374491",
+                    "post": "Vice President",
+                    "dept": "Department of Administration"
+                },
+                {
+                    "name": "MD. Samir Hossain",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Samir_1.jpg",
+                    "profile_url": "https://www.facebook.com/samir.shanto.568",
+                    "post": "Secretary",
+                    "dept": "Department of Administration"
+                },
+                {
+                    "name": "Md Ikramul Hassan Fardin",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Ikramul_1.jpg",
+                    "profile_url": "https://www.facebook.com/fardin.fayaz.33",
+                    "post": "President",
+                    "dept": "Department of Archive, Workshop & Seminar"
+                },
+                {
+                    "name": "Azmain Saif",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Saif_1.jpg",
+                    "profile_url": "https://www.facebook.com/share/16HTQVyqKR/",
+                    "post": "Vice President",
+                    "dept": "Department of Archive, Workshop & Seminar"
+                },
+                {
+                    "name": "Abu Hasan Swachha",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Swachha_1.jpg",
+                    "profile_url": "https://www.facebook.com/swachhahassan",
+                    "post": "Secretary",
+                    "dept": "Department of Archive, Workshop & Seminar"
+                },
+                {
+                    "name": "MD.Aliful Islam Rifat",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Rifat_1.jpg",
+                    "profile_url": "https://www.facebook.com/aliful.islam.rifat.2025",
+                    "post": "President",
+                    "dept": "Department of Logistics & Public Relations"
+                },
+                {
+                    "name": "Md. Wadud Hossain",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Wadud_1.png",
+                    "profile_url": "https://www.facebook.com/md.wadudhossain.12",
+                    "post": "Secretary",
+                    "dept": "Department of Logistics & Public Relations"
+                },
+                {
+                    "name": "Sharfaraj Khan Shafi",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Shafi_1.jpg",
+                    "profile_url": "https://www.facebook.com/share/18kH2JfVHB/",
+                    "post": "President",
+                    "dept": "Department of Robotics & AI"
+                },
+                {
+                    "name": "Misbah Uddin Inan",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Inan_1.png",
+                    "profile_url": "https://www.facebook.com/zaimajahin.wara",
+                    "post": "President",
+                    "dept": "Department of Research & Development"
+                },
+                {
+                    "name": "Shafin Junayen",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Shafin_1.jpg",
+                    "profile_url": "https://www.facebook.com/shafin.junayen",
+                    "post": "President",
+                    "dept": "Department of Academics"
+                },
+                {
+                    "name": "Syed Obidul Muntasir",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Muntasir_1.jpg",
+                    "profile_url": "https://www.facebook.com/syedmuntasir1453/",
+                    "post": "Secretary",
+                    "dept": "Department of Academics"
+                },
+                {
+                    "name": "Md. Fuad Hassan",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Fuad_1.png",
+                    "profile_url": "https://www.facebook.com/fuad.hassan.rafi.2024",
+                    "post": "President",
+                    "dept": "Department of Publications"
+                },
+                {
+                    "name": "Sejan Mahamud Setab",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Copy of Setab publications vice presi-01.jpg",
+                    "profile_url": "https://www.facebook.com/profile.php?id=100076965437575",
+                    "post": "Vice President",
+                    "dept": "Department of Publications"
+                },
+                {
+                    "name": "Murad Ahamed (Adnan)",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/ADNAN_1.jpg",
+                    "profile_url": "https://www.facebook.com/share/18vZgdRvmt/",
+                    "post": "Secretary",
+                    "dept": "Department of Publications"
+                },
+                {
+                    "name": "Arnab Barua",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Arnab_1.png",
+                    "profile_url": "https://www.facebook.com/arnab.barua.2025",
+                    "post": "President",
+                    "dept": "Department of Web & App Development"
+                },
+                {
+                    "name": "Faridin Islam",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Faridin_1.jpg",
+                    "profile_url": "https://www.facebook.com/based.glasses",
+                    "post": "Secretary",
+                    "dept": "Department of Web & App Development"
+                },
+                {
+                    "name": "Tajrif Hasan Rafid",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Tajrif_1.jpg",
+                    "profile_url": "https://www.facebook.com/tajrif.hasan.2025",
+                    "post": "President",
+                    "dept": "Department of Programming"
+                },
+                {
+                    "name": "Mahbubur Rahman Lin",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Lin_1.png",
+                    "profile_url": "https://www.facebook.com/100070915988773",
+                    "post": "President",
+                    "dept": "Department of Photography & Videography"
+                },
+                {
+                    "name": "Pinak Ranjan Roy",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Pinak.jpg",
+                    "profile_url": "https://www.facebook.com/priyangshu.roy.priyang",
+                    "post": "Vice President",
+                    "dept": "Department of Photography & Videography"
+                },
+                {
+                    "name": "Masnoon Haider Chaudhury",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Masnoon_1.png",
+                    "profile_url": "https://www.facebook.com/masnoon.haider.2024",
+                    "post": "Secretary",
+                    "dept": "Department of VFX"
+                },
+                {
+                    "name": "Hamidur Rahman Joy",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Hamidur_1.JPG",
+                    "profile_url": "https://www.facebook.com/hamid.rahman.776758",
+                    "post": "Treasurer",
+                    "dept": ""
+                },
+                {
+                    "name": "Md. Shiam Rahman",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Copy of Shiam executive-01.jpg",
+                    "profile_url": "https://www.facebook.com/mdshiam.rahman.7",
+                    "post": "Executive Member",
+                    "dept": ""
+                },
+                {
+                    "name": "Zulfik Amin Zarif",
+                    "image_url": "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2025-2026/Zarif_1.jpg",
+                    "profile_url": "https://www.facebook.com/zarif.zarif.01719303213",
+                    "post": "Executive Member",
+                    "dept": ""
+                }
+            ]
+        },
+        {
             "session": "2024-2025",
             "hasExtraDetails": true,
             "members": [
